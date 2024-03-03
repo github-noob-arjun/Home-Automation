@@ -1,2 +1,2 @@
-# Home-Automation
-A simple Home Automation Project 
+# Home Automation
+a simple Home Automation Project 
